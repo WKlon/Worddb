@@ -1,20 +1,11 @@
 {
-  "words": [
+  "posts": [
     {
       "id": 1,
-      "new_word": "package",
-      "translate": "пакет"
-    },
-    {
-       "id": 2, 
-       "new_word": "perfomance", 
-       "translate": "представление" 
-    },
-		{
-       
-       "id": 3, 
-       "new_word": "reason", 
-       "translate": "причина" 
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
