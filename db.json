@@ -15,6 +15,12 @@
        "id": 3, 
        "new_word": "reason", 
        "translate": "причина" 
+    },
+        {
+       
+       "id": 4, 
+       "new_word": "app", 
+       "translate": "приложение" 
     }
   ]
 }
