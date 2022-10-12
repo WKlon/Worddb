@@ -17,10 +17,165 @@
        "translate": "причина" 
     },
         {
-       
        "id": 4, 
        "new_word": "app", 
        "translate": "приложение"
+    }
+    {
+       
+       "id": 5, 
+       "new_word": "confident", 
+       "translate": "уверенный" 
+    },
+    {
+       
+       "id": 6, 
+       "new_word": "grocery",
+       "translate": "продуктовый"
+    },
+    {
+       
+       "id": 7, 
+       "new_word": "medicine", 
+       "translate": "лекарство"
+    },
+    {
+       
+       "id": 8, 
+       "new_word": "kettle", 
+       "translate": "чайник" 
+    },
+    {
+       
+       "id": 9, 
+       "new_word": "suitable",
+       "translate": "подходящий"
+    },
+    {
+       
+       "id": 10, 
+       "new_word": "permission",
+       "translate": "разрешение"
+    },
+    {
+       
+       "id": 11, 
+       "new_word": "assertive",
+       "translate": "напористый" 
+    },
+    {
+       
+       "id": 12, 
+       "new_word": "resist",
+       "translate": "сопротивление"  
+    },
+    {
+       
+       "id": 13, 
+       "new_word": "leaf",
+       "translate": "лист"
+    },
+    {
+       
+       "id": 14, 
+       "new_word": "cliff", 
+       "translate": "утес"
+    },
+    {
+       
+       "id": 15, 
+       "new_word": "wood", 
+       "translate": "дерево" 
+    },
+    {
+       
+       "id": 16, 
+       "new_word": "fence", 
+       "translate": "забор"
+    },
+    {
+       
+       "id": 17, 
+       "new_word": "mud", 
+       "translate": "грязь" 
+    },
+    {
+       
+       "id": 18, 
+       "new_word": "barn", 
+       "translate": "сарай"
+    },
+    {
+       
+       "id": 19, 
+       "new_word": "valley",
+       "translate": "долина"
+    },
+    {
+       
+       "id": 20, 
+       "new_word": "ripe", 
+       "translate": "спелый" 
+    },
+    {
+       
+       "id": 21, 
+       "new_word": "harvest", 
+       "translate": "урожай" 
+    },
+    {
+       
+       "id": 22, 
+       "new_word": "electricity",
+       "translate": "электричество" 
+    },
+    {
+       
+       "id": 23, 
+       "new_word": "broadcast", 
+       "translate": "радиовещание" 
+    },
+    {
+       
+       "id": 24, 
+       "new_word": "witness", 
+       "translate": "свидетель" 
+    },
+    {
+       
+       "id": 25, 
+       "new_word": "acquaintance", 
+       "translate": "знакомство"
+    },
+    {
+       
+       "id": 26, 
+       "new_word": "profitable",
+       "translate": "полезный" 
+    },
+    {
+       
+       "id": 27, 
+       "new_word": "spacy",
+       "translate": "ошалевший" 
+    },
+    {
+       
+       "id": 28, 
+       "new_word": "cheap", 
+       "translate": "дешевый" 
+    },
+    {
+       
+       "id": 29, 
+       "new_word": "envious",
+       "translate": "завистливый" 
+    },
+    {
+       
+       "id": 30, 
+       "new_word": "affordable",
+       "translate": "допустимый" 
     }
   ]
 }
